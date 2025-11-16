@@ -32,8 +32,9 @@ The project was developed using **Git + GitHub** for version control and emphasi
 
 ### 🖥️ Desktop View  
 
-
 <img src="https://github.com/user-attachments/assets/8d5a5a5b-4ccd-406b-a29d-5fa27cb902eb" width="60%">
+
+<img src="https://github.com/user-attachments/assets/4ab69701-f99d-48eb-8a17-3b814f3b4dba" width="60%">
 
 <img src="https://github.com/user-attachments/assets/ed29c9ca-9e4c-42f4-8afd-5b8a0392211b" width="60%">
 
@@ -49,5 +50,6 @@ The project was developed using **Git + GitHub** for version control and emphasi
 
 
 ### Thank's for your attention!
+
 
 
