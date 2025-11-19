@@ -40,6 +40,9 @@ The project was developed using **Git + GitHub** for version control and emphasi
 
 <img src="https://github.com/user-attachments/assets/62e39378-b198-461e-901b-5d6382537702" width="60%">
 
+<img src="https://github.com/user-attachments/assets/39659c6d-f169-4133-afd5-2cdd17a1d15f" width="60%">
+
+
 
 ### 📱 Mobile View  
 <img src="https://github.com/user-attachments/assets/13adb27a-6b85-4dd1-a8a4-ff1f799782cd" width="30%">
@@ -50,6 +53,7 @@ The project was developed using **Git + GitHub** for version control and emphasi
 
 
 ### Thank's for your attention!
+
 
 
 
