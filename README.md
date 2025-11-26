@@ -1,4 +1,4 @@
-# 🐍 CobraNEWS
+#  CobraNEWS
 
 **CobraNEWS** is a modern, fully responsive **news website** built with **HTML, CSS, and JavaScript**.  
 It features a sleek design, **Dark/Light mode**, and a dynamic navigation layout optimized for all screen sizes.  
@@ -7,7 +7,7 @@ The project was developed using **Git + GitHub** for version control and emphasi
 
 ---
 
-## 📰 Features
+##  Features
 
 -  **Responsive Design** — adapts seamlessly to desktop, tablet, and mobile  
 -  **Dark / Light Mode** toggle for a personalized experience  
@@ -16,9 +16,9 @@ The project was developed using **Git + GitHub** for version control and emphasi
 -  **Structured Content Sections** for an intuitive reading flow  
 
 ---
-## 🌆 Screenshots
+##  Screenshots
 
-### 🖥️ Desktop View  
+ 
 
 <img src="https://github.com/user-attachments/assets/8d5a5a5b-4ccd-406b-a29d-5fa27cb902eb" width="60%">
 
@@ -32,7 +32,7 @@ The project was developed using **Git + GitHub** for version control and emphasi
 
 
 
-### 📱 Mobile View  
+###  Mobile View  
 <img src="https://github.com/user-attachments/assets/13adb27a-6b85-4dd1-a8a4-ff1f799782cd" width="30%">
 
 <img src="https://github.com/user-attachments/assets/f19f8cd7-02d5-448f-b57d-cb6d00c77e46" width="30%">
@@ -41,6 +41,7 @@ The project was developed using **Git + GitHub** for version control and emphasi
 
 
 ### Thank's for your attention!
+
 
 
 
