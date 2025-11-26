@@ -9,23 +9,11 @@ The project was developed using **Git + GitHub** for version control and emphasi
 
 ## 📰 Features
 
-- 📱 **Responsive Design** — adapts seamlessly to desktop, tablet, and mobile  
-- 🌗 **Dark / Light Mode** toggle for a personalized experience  
-- 🧭 **Dynamic Navigation** with a modern layout  
-- 🧩 **Modular Structure** and clean, reusable code  
-- 📰 **Structured Content Sections** for an intuitive reading flow  
-- 🧠 **Version Control** through Git & GitHub  
-
----
-
-## 🛠️ Technologies Used
-
-| Technology | Purpose |
-|-------------|----------|
-| **HTML5** | Page structure |
-| **CSS3 (Flexbox & Grid)** | Responsive and modern styling |
-| **JavaScript (ES6)** | Interactivity and theme switching |
-| **Git & GitHub** | Version control and collaboration |
+-  **Responsive Design** — adapts seamlessly to desktop, tablet, and mobile  
+-  **Dark / Light Mode** toggle for a personalized experience  
+-  **Dynamic Navigation** with a modern layout  
+-  **Modular Structure** and clean, reusable code  
+-  **Structured Content Sections** for an intuitive reading flow  
 
 ---
 ## 🌆 Screenshots
@@ -53,6 +41,7 @@ The project was developed using **Git + GitHub** for version control and emphasi
 
 
 ### Thank's for your attention!
+
 
 
 
