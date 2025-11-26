@@ -4,7 +4,11 @@
 It features a sleek design, **Dark/Light mode**, and a dynamic navigation layout optimized for all screen sizes.  
 The project was developed using **Git + GitHub** for version control and emphasizes accessibility, clarity, and scalability.
 
+---
 
+##  Live Preview
+ *https://andreilupau.github.io/News-Website/*  
+ 
 ---
 
 ##  Features
@@ -41,6 +45,7 @@ The project was developed using **Git + GitHub** for version control and emphasi
 
 
 ### Thank's for your attention!
+
 
 
 
